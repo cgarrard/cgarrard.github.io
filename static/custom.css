@@ -1,0 +1,41 @@
+article .well {
+    padding: 0;
+    background-color: inherit;
+    border: none;
+    -webkit-box-shadow: none;
+    -box-shadow: none;
+    font-size: 12px;
+}
+
+/*article .well footer .label {
+    display: none;
+}
+*/
+/*article .well footer a {
+    float: right;
+}*/
+
+/*article .well footer .published {
+    padding-right: 20px;
+}
+*/
+/*article .well footer .published i {
+    display: none;
+}*/
+
+.post-info .label, .post-info i {
+    display: none;
+}
+
+.post-info .published {
+    padding-right: 20px;
+}
+
+.page-header {
+    margin-bottom: 0;
+}
+
+/*a:hover {
+    color: #336600;
+    text-decoration: none;
+}*/
